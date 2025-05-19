@@ -1,4 +1,4 @@
-import { Controller, FieldValues } from "react-hook-form";
+import { Controller, Control, FieldValues, Path } from "react-hook-form";
 import {
   FormItem,
   FormLabel,
